@@ -1,0 +1,14 @@
+C:\Users\Artem\source\repos\HW_05_10\HW_05_10\bin\Debug\net8.0\HW_05_10.exe
+C:\Users\Artem\source\repos\HW_05_10\HW_05_10\bin\Debug\net8.0\HW_05_10.deps.json
+C:\Users\Artem\source\repos\HW_05_10\HW_05_10\bin\Debug\net8.0\HW_05_10.runtimeconfig.json
+C:\Users\Artem\source\repos\HW_05_10\HW_05_10\bin\Debug\net8.0\HW_05_10.dll
+C:\Users\Artem\source\repos\HW_05_10\HW_05_10\bin\Debug\net8.0\HW_05_10.pdb
+C:\Users\Artem\source\repos\HW_05_10\HW_05_10\obj\Debug\net8.0\HW_05_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\source\repos\HW_05_10\HW_05_10\obj\Debug\net8.0\HW_05_10.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\HW_05_10\HW_05_10\obj\Debug\net8.0\HW_05_10.AssemblyInfo.cs
+C:\Users\Artem\source\repos\HW_05_10\HW_05_10\obj\Debug\net8.0\HW_05_10.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\HW_05_10\HW_05_10\obj\Debug\net8.0\HW_05_10.dll
+C:\Users\Artem\source\repos\HW_05_10\HW_05_10\obj\Debug\net8.0\refint\HW_05_10.dll
+C:\Users\Artem\source\repos\HW_05_10\HW_05_10\obj\Debug\net8.0\HW_05_10.pdb
+C:\Users\Artem\source\repos\HW_05_10\HW_05_10\obj\Debug\net8.0\HW_05_10.genruntimeconfig.cache
+C:\Users\Artem\source\repos\HW_05_10\HW_05_10\obj\Debug\net8.0\ref\HW_05_10.dll
